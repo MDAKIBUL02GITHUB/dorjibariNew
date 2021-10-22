@@ -1,0 +1,616 @@
+@media only screen and (min-width:1200px){
+    .navbar-expand-md .navbar-nav .nav-link {
+        padding-right: .4rem;
+        padding-left: .4rem;
+    }
+    #user .col-sm-12:nth-child(1){
+        padding-bottom:5rem;
+    }
+}
+/* FOR MID  LINE */
+@media only screen and (max-width:1269.987px){
+    #banner{
+        padding:6rem 0rem;
+    }
+    .hero-text h1 {
+        font-size: 5rem;
+        line-height: 6.9rem;
+        margin-bottom:1rem;
+    }
+    .hero-text p {
+        line-height: 3.5rem;
+    }
+    .order-start {
+        line-height: 3.5rem;
+        padding: 2rem;
+        margin-top: 2rem;
+    }
+    .vlaue-width {
+        width: 33.333% !important;
+        margin-right: 0rem;
+    }
+    .account{
+        margin-bottom:1rem;
+    }
+    .avatar img {
+        margin-left: 0rem;
+        margin-bottom: -26rem;
+        height: 156%;
+    }
+}
+@media only screen and (max-width:1199.98px){
+    .sales{
+        margin-bottom:6rem;
+    }
+    .impressive-ms {
+        margin-left: 10rem;
+        width:70%;
+    }
+    .disable h3 {
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+    .business-width{
+        width:100% !important;
+    }
+    .user-item h1 {
+        font-size: 4.5rem;
+        font-weight: 700;
+        line-height: 7rem;
+    }
+    .users-cls {
+        font-size: 2rem;
+        padding: 2rem;
+        margin-top: 2rem;
+    }
+    #user{
+        padding-bottom:8rem;
+    }
+    .app-download .col-lg-5{
+        width:49% !important;
+        }
+    .title h3 {
+        font-size: 2.5rem;
+        line-height: 4rem;
+        }
+    footer ul li, footer p {
+        font-size: 1.8rem;
+        line-height: 2.5rem;
+        }
+    .icon-helps a i {
+        font-size:1.8rem;
+        }
+}
+@media only screen and (max-width:991.99px){
+    html {
+        font-size: 58.5%;
+    }
+    .navbar-toggler{
+        font-size:3rem;
+        color:#fff !important;
+        border-color:#fff !important;
+    }
+    .navbar-nav{
+        text-align: center;
+    }
+    .sing {
+        text-align: center;
+    }
+    .getfor {
+        text-align: center;
+    }
+    .navbar-collapse{
+        padding-top:8rem;
+        padding-bottom:8rem;
+    }
+    nav ul li{
+        margin-bottom:2.2rem;
+    }
+    nav ul li a {
+        font-size: 2rem;
+    }
+    .sing-cls{
+        margin-right:0rem;
+    }
+    .sing{
+        margin-bottom:3.5rem;
+    }
+    .hero-text h1 {
+        font-size: 4.5rem;
+        line-height: 7.5rem;
+    }
+    .hero-text p {
+        font-size: 1.7rem;
+        line-height: 3.5rem;
+    }
+    .order-start {
+        width: 100%;
+        font-size: 2.2rem;
+        line-height: 2.7rem;
+        padding: 2.5rem;
+        margin-top: 3rem;
+    }
+    .img-cls img {
+        width:100%;
+        margin-top: 12rem;
+    }
+    #test{
+        display:none;
+    }
+    .rafiki-cls img {
+        margin-top: 5rem;
+        margin-left: 3rem;
+    }
+    .vlaue-width{
+        width:100% !important;
+        margin-bottom:4rem;
+    }
+    .item-para{
+        text-align: center;
+    }
+    .accout-oper {
+        margin-bottom: 3rem;
+    }
+    .sales {
+        margin-bottom: 3rem;
+    }
+    .active {
+        background:#0071BC !important;
+        color:#fff;
+    }
+    .active:hover{
+        background: #F7931E !important;
+        color:#fff !important;
+    }
+    #value-vector{
+        display:none;
+    }
+    #value {
+        padding-bottom: 10rem;
+    }
+    .impressive-ms {
+        margin-left:0;
+        width: 100%;
+        text-align: center;
+    }
+    .hide-display{
+        display:none;
+    }
+    .items-detais-top {
+        padding-top: 0rem;
+    }
+    .business-padding img{
+        display:none;
+    }
+    .costom h3{
+        display: none;
+    }
+    .business-paddings{
+        text-align: center;
+    }
+    
+.next i {
+    top: -180%;
+    right: -109%;
+}
+.pre i {
+    top: 50%;
+    left: -5%;
+    padding-left: 0rem;
+}
+.business-paddings {
+    width:100%;
+}
+.customizable h3 {
+    margin-left: -3rem;
+}
+.secure{
+    margin-left:-3rem;
+}
+.dot-dot{
+    display:none;
+}
+.dot-dot-2{
+    display:none;
+}
+.icon-head{
+    padding-left:6.5rem;
+}
+.user-item-2 img {
+    margin-top: 12rem;
+    height: 43rem;
+}
+.comment-conner{
+    width:100% !important;
+}
+.phone-cls{
+    margin-left: 32%;
+    height: 31rem;
+}
+#downlaod h1 {
+    font-size: 4.5rem;
+    line-height: 7rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.row.app-download {
+    margin-left: 16%;
+}
+.app-download .col-lg-5 {
+    width: 41% !important;
+}
+.title h3 {
+    font-size: 2rem;
+}
+footer ul li, footer p {
+    font-size: 1.7rem;
+    line-height: 2.4rem;
+}
+.icon-helps a i {
+    font-size: 1.7rem;
+    padding-right:1rem;
+}
+.support p {
+    font-size: 2rem;
+}
+    }
+@media only screen and (max-width:767.99px){
+    html {
+        font-size: 55.5%;
+    }
+    .logo{
+       width:7rem;
+       height:6rem;
+       margin-top:1rem;
+    }
+    .hero-text h1 {
+        font-size: 4rem;
+        line-height: 7rem;
+        margin-bottom: 1rem;
+    }
+    .hero-text p {
+        font-size: 1.7rem;
+        line-height: 3.2rem;
+    }
+    .order-start {
+        font-size: 2rem;
+        line-height: 2rem;
+        padding: 2rem;
+        margin-top: 2rem;
+    }
+    .text{
+        text-align: center;
+    }
+    .rafiki-cls img {
+        margin-left:0rem;
+    }    
+    .text h1 {
+        font-size: 4.5rem;
+        margin-bottom:0rem;
+    }
+    .text p{
+        font-size: 1.7rem;
+        line-height: 3rem;
+    }
+    .text h1 {
+        line-height: 7rem;
+    }
+    .items-padding .col-2{
+        width:100%;
+        margin-bottom:2rem;
+        text-align: center;
+    }
+    .items-padding .col-10 h3{
+        text-align: center;
+    }
+    .items-padding .col-10{
+        width: 100%;
+        text-align: justify;
+    }
+    .disable .col-3:nth-child(1),
+    .disable .col-3:nth-child(2){
+        width:50% !important;
+    }
+    .disable .col-3:nth-child(3),
+    .disable .col-3:nth-child(4){
+        width:50% !important;
+        margin-top:4rem;
+    }
+    .disable h3{
+        line-height:1rem;
+    }
+    .aliant img{
+        margin-top:3rem;
+    }
+    #patner h1 {
+        margin-bottom: 2rem;
+    }
+    .user-item{
+        text-align: center;
+    }
+    #user .col-8{
+        text-align: center;
+    }
+    .user-btn {
+        width: 40rem;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .user-item-2{
+        display:none;
+    }
+    .user-item h1 {
+        font-size: 4rem;
+        line-height: 4rem;
+    }
+    .div-img{
+        left: 44%;
+        bottom: -12%;
+    }
+    .div-img img{
+        width:10rem;
+        height:10rem;
+    }
+    #downlaod h1 {
+        font-size: 4rem;
+        line-height: 6rem;
+    }
+    .row.app-download {
+        margin-left: 0%;
+    }
+    .app-download .col-lg-5 {
+        width: 49% !important;
+    }
+    #downlaod p {
+        margin-bottom: 4rem;
+        text-align: center;
+    }
+    .part-3{
+        width:33% !important;
+    }
+    .part-2{
+        width:33% !important;
+        margin-top:4rem;
+    }
+    .title h3 {
+        font-size: 2.5rem;
+    }
+    footer ul li, footer p {
+        font-size: 1.8rem;
+    }
+    .sell {
+        font-size: 1.8rem;
+    }
+    .icon-helps a i {
+        font-size: 2rem;
+    }
+    .part-3 ul li{
+        padding:.5rem;
+    }
+    .part-2 ul li{
+        padding:.5rem;
+    }
+}
+@media only screen and (max-width:575.99px){
+    html {
+        font-size: 52.5%;
+    }
+    p{
+        line-height: 3rem !important;
+    }
+    .navbar-collapse{
+        padding-top:6rem;
+        padding-bottom:0rem;
+    }
+    .logo {
+        width: 5rem;
+        height: 4rem;
+        margin-left:3rem;
+    }
+    .fa-bars {
+        font-size: 2.5rem;
+    }
+    .navbar-toggler{
+        margin-right: 3rem;
+        line-height: 0;
+    }
+    nav ul li {
+        margin-bottom: 1.2rem;
+    }
+    nav ul li a {
+        font-size: 1.5rem;
+        padding: 1 !important;
+    }
+    .sing-cls {
+        font-size: 1.5rem;
+        padding: 0.3rem 1.5rem !important;
+    }
+    .nav-free {
+        width:100%;
+        font-size: 1.5rem;
+        padding: 0.5rem 1rem !important;
+    }
+    .sing {
+        margin-bottom: 1.5rem;
+    }
+    .img-cls img {
+        display:none;
+    }
+    .col-sm-6{
+        width:100%;
+    }
+    .hero-text{
+        padding:4rem;
+    }
+    .hero-text h1 {
+        font-size: 3.5rem;
+        line-height: 5rem;
+    }
+    .hero-text p {
+        font-size: 1.7rem;
+    }
+    .order-start {
+        font-size: 1.9rem;
+        line-height: 1.9rem;
+        padding: 1.5rem;
+        margin-top: 1.5rem;
+    }
+    .text{
+        padding-left:3rem;
+        padding-right:3rem;
+    }
+    .text h1 {
+        font-size: 4rem;
+    }
+    .hide-sm{
+        display:none;
+    }
+    .item {
+        margin: 0rem 4rem;
+    }
+    #value{
+        padding-top:0;
+    }
+    .text h1 {
+        line-height: 5rem;
+        margin-bottom:2rem;
+    }
+    #impressive{
+        background: none;
+    }
+    .items-padding{
+        padding:0rem 4rem;;
+    }
+    #business h1{
+        font-size:4rem;
+        padding:0rem 3rem;
+        line-height: 6rem;
+    }
+    .business-background {
+        margin:3rem;
+    }
+    .business-padding {
+        padding: 0rem;
+    }
+    .business-paddings {
+        padding: 7rem 5rem 5rem 5rem;
+    }
+    .next{
+        display:none;
+    }
+    .pre{
+        display:none;
+    }
+    .disable {
+        padding:3rem;
+    }
+    #business{
+        padding-bottom:4rem;
+    }
+    .disable h3{
+        font-size:2.5rem;
+    }
+    .icon-head .col-md-4{
+        width:100% !important;
+        text-align: center;
+    }
+    .icon{
+        margin-bottom:.5rem;
+        margin-left:-5rem;
+    }
+    .icon img{
+        width:10rem;
+    }
+    #patner h1 {
+        font-size: 4rem;
+        line-height: 6rem;
+    }
+    #user .col-sm-12{
+        width:100%;
+        padding:0rem 4rem;
+    }
+    .users-cls {
+        padding: 1rem;
+    }
+    .user-btn {
+        width: 22rem;
+    }
+    #testimonial{
+        padding-top:2rem;
+        padding-bottom:9rem;
+    }
+    #testimonial h1{
+        font-size:4rem;
+        margin-bottom: 0rem !important;
+    }
+    .comment-conner p{
+        font-size:1.8rem;
+        line-height: 3rem;
+    }
+    .comment-conner{
+        width:86% !important;
+    }
+    .div-img img{
+        width:7rem;
+        height:7rem;
+    }
+    .phone-cls{
+        display:none;
+    }
+    .app-download .col-lg-5 {
+        width: 100% !important;
+    }
+    .text-part{
+        padding-left:4rem;
+        padding-right:4rem;
+    }
+    .row.app-download {
+        text-align: center;
+    }
+    .app-download .col-lg-5 img{
+        padding:2rem;
+    }
+    .part-3{
+        width:100% !important;
+        text-align: center;
+        margin-bottom:4rem;
+    }
+    .part-2{
+        width:100% !important;
+        margin-top:4rem;
+        text-align: center;
+    }
+    .title h3 {
+        font-size: 3rem;
+    }
+    footer ul li, footer p {
+        font-size: 2rem;
+    }
+    .sell{
+        font-size:2rem;
+    }
+    .icon-helps a i {
+        font-size: 2.5rem;
+        padding:.5rem;
+        margin-top:0rem;
+        margin-right: 2rem;
+    }
+    .icon-helps{
+        float:right;
+    }
+    .support {
+        width:100%;
+        margin-top: 5em;
+    }
+    .jamela-kortasos-toi{
+        float:left;
+        width:12rem;
+    }
+}
+@media only screen and (max-width:343.99px){
+    .div-img {
+        left: 41%;
+        bottom: -11%;
+    }
+}
+
